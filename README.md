@@ -31,3 +31,13 @@ Requires Java 8 or newer.
 
 - Java (AWT / Swing), no external game libraries
 
+## Credits
+
+This was an early learning project, built as part of my studies.
+
+- The engine structure (game loop, state manager, tile map) is based on an online Java platformer tutorial, which I then extended with my own levels, enemies, and gameplay.
+- Character sprites were drawn by me, inspired by existing pixel-art assets.
+- Some background images were taken from online sources. I no longer have the original links. If you are the creator of any of these and would like credit or removal, please open an issue.
+
+The project is shared for non-commercial, educational purposes only.
+
